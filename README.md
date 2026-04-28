@@ -19,5 +19,13 @@ Detects and localizes multiple objects in any image.
 - Matplotlib
 - Google Colab
 
+
+### 2. Face Emotion Detector
+Detects human emotions from any face photo.
+- Model: `trpakov/vit-face-expression`
+- Input: Any face image URL
+- Output: Emotion label + confidence score
+- Detects 7 emotions: happy, sad, angry, 
+  surprised, fearful, disgusted, neutral
 ## Author
 Archana B | [GitHub](https://github.com/archana-b15)
