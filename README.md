@@ -27,5 +27,12 @@ Detects human emotions from any face photo.
 - Output: Emotion label + confidence score
 - Detects 7 emotions: happy, sad, angry, 
   surprised, fearful, disgusted, neutral
+
+### 3. Image Caption Generator
+Generates natural language descriptions for any image.
+- Model: `Salesforce/blip-image-captioning-base`
+- Input: Any image URL
+- Output: Natural language caption
+- Combines Computer Vision + NLP (Multimodal AI)
 ## Author
 Archana B | [GitHub](https://github.com/archana-b15)
